@@ -19,7 +19,7 @@ PASSWD = "yourpassword"
 ```
 #### 在/python-selenium-seed/CommonUtil/setttings.py替换webdriver本地路径
 ```python
-# Browser web driver path
+# Browser web driver path(For Linux/Like Unix system)
 WEB_DRIVER_PATH = "/yourwebdriverpath/chromedriver"
 # For Windows
 # WEB_DRIVER_PATH = "D:\\yourwebdriverpath\\chromedriver.exe"
