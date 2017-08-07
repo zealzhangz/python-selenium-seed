@@ -21,6 +21,8 @@ PASSWD = "yourpassword"
 ```python
 # Browser web driver path
 WEB_DRIVER_PATH = "/yourwebdriverpath/chromedriver"
+# For Windows
+# WEB_DRIVER_PATH = "D:\\yourwebdriverpath\\chromedriver.exe"
 ```
 #### 启动
 运行以下命令或者直接在IDE中配置运行以下命令,在Intelli IDEA中的配置运行参考上面的配置环境
