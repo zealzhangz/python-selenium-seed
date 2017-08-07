@@ -38,4 +38,4 @@ Check [Release](https://github.com/zealzhangz/python-selenium-seed/releases) lis
 
 ## License
 
-[MIT License](http://zenorocha.mit-license.org/)
+[MIT License](http://zealzhangz.mit-license.org/)
